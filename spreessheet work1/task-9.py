@@ -9,3 +9,6 @@ distance = sqrt((x2 - x1)**2 + (y2 - y1)**2)
 print("the distance is =", distance)
 2
 2   
+
+#Solution by Gopal
+print(f"The distance is {distance}.")

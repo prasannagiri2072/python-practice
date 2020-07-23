@@ -5,3 +5,12 @@ def is_group_member(group_data, n):
     return False
 print(is_group_member([1, 5, 8, 3], 3))
 print(is_group_member([5, 8, 3], -1))
+
+#Solution by Gopal
+def check_in_group(group, i):
+    if i in group:
+        return True
+    else:
+        return False
+print(check_in_group([1, 5, 8, 3], 3))
+print(check_in_group([5, 8, 3], -1))

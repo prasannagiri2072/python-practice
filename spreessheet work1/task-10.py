@@ -7,3 +7,6 @@ h_cm = round(h_inch * 2.54, 1)
 
 print("Your height is : %d cm." % h_cm)
 
+#Solution by Gopal
+print(f"Your height is {h_cm} centimeters.")
+
