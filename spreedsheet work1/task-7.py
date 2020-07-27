@@ -1,3 +1,4 @@
+#Display the area.
 b = int(input("Input the base : "))
 h = int(input("Input the height : "))
 

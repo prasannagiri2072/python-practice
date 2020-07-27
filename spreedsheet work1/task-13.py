@@ -1,3 +1,4 @@
+#Write a Python program to check if a string is numeric.
 str = 'a123'
 #str = '123'
 try:

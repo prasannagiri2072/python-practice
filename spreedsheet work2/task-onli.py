@@ -1,3 +1,4 @@
+#display the even numbers divisible by 3. 
 s = [25,36,445,85,77,988,11,77,51,48,2,546,2323,44,22,55,2121]
 r =[] 
 for x in s:
@@ -6,6 +7,7 @@ for x in s:
         r.append(x)
 print(r)
 
+#Dispaly the reverse of the string.
 a = str(input("enter a word :"))
 r = "".join(reversed(a))
 print(r)

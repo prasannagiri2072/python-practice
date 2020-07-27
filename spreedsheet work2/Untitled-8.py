@@ -1,3 +1,4 @@
+#Display the maximum and minimum numbers from the list.
 data = [15,-1,10,78,9]
 l = 0 
 s = 0

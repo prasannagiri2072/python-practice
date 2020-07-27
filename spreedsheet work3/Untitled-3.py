@@ -1,3 +1,7 @@
+#Given a string of odd length greater 7, return a string made of the middle three chars of a given String.
+# Example:
+# getMiddleThreeChars("JhonDipPeta") → "Dip"
+# getMiddleThreeChars("Jasonay") → "son"
 def middle_char(txt):
    return txt[(len(txt)-2)//2:(len(txt)+3)//2]
 print(middle_char("JhonDipPeta"))

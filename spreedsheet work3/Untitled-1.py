@@ -1,3 +1,4 @@
+#Display the multiplication table from 2 to 5.
 n = range(2,6)
 s = range(1,6)
 for x in n:

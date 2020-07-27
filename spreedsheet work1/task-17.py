@@ -1,3 +1,5 @@
+#Write a Python program to check whether a specified value is contained in a group of values. 
+
 num = [2,3,4]
 print()
 print(all(x > 1 for x in num))

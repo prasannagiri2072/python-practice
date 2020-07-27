@@ -1,3 +1,4 @@
+#Check wheather hte number is positive,negative or zero.
 num = float(input("Input a number: "))
 if num > 0:
    print("It is positive number")

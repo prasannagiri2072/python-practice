@@ -1,3 +1,4 @@
+#concatenate the elements in the list.
 def concatenate_list_data(list):
     result= ''
     for element in list:

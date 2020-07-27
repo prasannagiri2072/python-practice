@@ -1,3 +1,5 @@
+#Write a Python program to calculate the sum of three given numbers, 
+# if the values are equal then return three times of their sum.
 def sum_thrice(x, y, z):
 
      sum = x + y + z

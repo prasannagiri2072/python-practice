@@ -1,3 +1,4 @@
+#take the int number from the user and dispaly the sum .
 def add_numbers(a, b):
     if not (isinstance(a, int) and isinstance(b, int)):
          raise TypeError("Inputs must be integers")

@@ -8,6 +8,8 @@ def divisible():
     return s 
 print(divisible())               
 
+#Reverse a given number and return true if it is the same as the original number.
+
 n = int(input("input integer:"))
 string = str(n)
 lst = list(string)

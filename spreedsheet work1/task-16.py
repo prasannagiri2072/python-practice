@@ -1,3 +1,4 @@
+#Display the reverse of the interger.
 num = int(input("Input a four digit numbers: "))
 x  = num //1000
 x1 = (num - x*1000)//100

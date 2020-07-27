@@ -1,6 +1,6 @@
 
 
-
+#input the comma seprated numbers form the user and display the numbers in the list.
 def create_list():
     l = values.split(",")
     t = tuple(l)
