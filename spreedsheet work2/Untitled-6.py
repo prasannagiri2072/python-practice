@@ -8,6 +8,10 @@ def count_num4(l):
     return count
 print("the num 4 in the list is :",count_num4(l))
 
+#Solution by Gopal
+c = l.count(4)
+print(f"Number 4 for is {c} times repeated.")
+
 #Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum.
 def sum_num(a,b,c):
     if a == b == c :

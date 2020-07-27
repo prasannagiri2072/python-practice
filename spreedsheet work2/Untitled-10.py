@@ -1,7 +1,7 @@
 #"Given a string and an int n, remove characters from string starting from zero up to n and return a new string.
-string = str(input("input the string:"))
+string = str(input("input the string:")) #Suggestion by Gopal = User input is string in default. No need to use type conversion.
 num = int(input("input the num :"))
-result = string[:num]
+result = string[:num] #Does not satisfy question.
 print(result)
 
 #Given a list of ints, return True if first and last number of a list is same.

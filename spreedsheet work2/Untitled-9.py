@@ -19,3 +19,6 @@ def odd_values_string(str):
 
 print(odd_values_string('abcdef'))
 print(odd_values_string('python'))
+
+#Suggestion by Gopal
+#List comprehension can reduce line of codes.

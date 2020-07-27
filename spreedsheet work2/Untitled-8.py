@@ -18,4 +18,11 @@ def sum_of_cube(n):
         total = total + n**3
         n = n - 1 
     return total 
-print("sum of cubes:",sum_of_cube(8))      
+print("sum of cubes:",sum_of_cube(8))   
+
+#Solution by Gopal
+def cubic(n):
+    sum = 0
+    for i in range(n):
+        sum += i**3
+    return sum

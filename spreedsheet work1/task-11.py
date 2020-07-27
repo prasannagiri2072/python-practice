@@ -1,4 +1,4 @@
-#calculate the hypotenus of right angled triangle
+#Calculate the hypotenus of right angled triangle
 from math import sqrt
 p = int(input("input perpendicular:"))
 b = int(input("input base :"))

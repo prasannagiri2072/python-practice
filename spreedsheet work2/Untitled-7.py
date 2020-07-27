@@ -18,5 +18,10 @@ def max_min(data):
 
 print(max_min([0, 10, 15, 40, -5, 42, 17, 28, 75]))
 
+#Solution by Gopal
+data = [3,56,97,11,487,0,7,55,44,44,11,77,1,-454,-14,-78]
+minimum = min(data)
+maximum = max(data)
+print(f"Minimum : {minimum}, Maximum: {maximum}")
 
 

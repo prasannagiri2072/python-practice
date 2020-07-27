@@ -1,4 +1,4 @@
-#distance formula (x1,x2) and (y1,y2)
+#Distance formula (x1,x2) and (y1,y2)
 from math import sqrt
 x1 = int(input("input value of x1 :"))
 x2 = int(input("input value of x2 :"))

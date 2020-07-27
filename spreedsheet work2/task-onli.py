@@ -7,6 +7,11 @@ for x in s:
         r.append(x)
 print(r)
 
+#Solution by Gopal
+final_list = [i for i in s if i%2 == 0 and i%3 == 0]
+print(f"Even numbers divisible by 3 are: {final_list}.")
+
+
 #Dispaly the reverse of the string.
 a = str(input("enter a word :"))
 r = "".join(reversed(a))
