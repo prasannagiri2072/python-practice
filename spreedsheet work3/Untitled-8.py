@@ -7,5 +7,7 @@ def sum_and_average(English,Science,Math,History):
     print("sum =",sum,"percentage =",percentage)
 (sum_and_average(78,83,68,65))
 
+#TODO: Does not satisfy question. Try again.
+
 
 

@@ -4,7 +4,7 @@
 #Total counts of chars, digits,and symbols Chars = 8 Digits = 3 Symbol = 4
 
 Input_str = "P@#yn26at^&i5ve"
-words = Input_str.split()
+words = Input_str.split() #TODO: Why is this?
 lower = 0
 upper = 0    
 digits = 0
@@ -21,3 +21,4 @@ for char in Input_str:
 print("lower =",lower,"upper =",upper,"digits =","symbols =",symbol)
 
 
+#TODO: Try to use dictionary to get the count.

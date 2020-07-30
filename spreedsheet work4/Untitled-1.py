@@ -23,6 +23,8 @@ def fizz_buzz(num):
         print("Buzz")
 num = int(input("Enter a number :"))
 fizz_buzz(num)
+#TODO: Incomplete solution. No else case for if the number is not divisible by both 3 and 5.
+
 
 ##Write a function called showNumbers that takes a parameter called limit. It should print all the numbers 
 # between 0 and limit with a label to identify the even and odd numbers. For example, if the limit is 3, it should print:

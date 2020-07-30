@@ -17,4 +17,13 @@ print("s1 and s2 are balanced",flag)
 s1 = "ynf"
 s2 = "Pynative"
 flag = flag_statment(s1,s2)
-print("s! and s2 are balanced",flag)
+print("s1 and s2 are balanced",flag)
+
+
+#Solution by Gopal
+s1 = "h"
+s2 = "hello"
+if s1 in s2:
+    print(f"{s1} is in {s2}. So it is balanced.")
+else:
+    print(f"{s1} is not in {s2}. So it is not balanced.")

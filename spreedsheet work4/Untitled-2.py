@@ -14,6 +14,8 @@ def sum_of_mupltiples(limit):
 limit = int(input("Input the limit :"))
 sum_of_mupltiples(limit)
 
+#TODO: Error in above code. Does not return required list.
+
 #Write a function called show_stars(rows). If rows is 5, it should print the following:
 def pyramid(n):
     for i in range(0,n):
