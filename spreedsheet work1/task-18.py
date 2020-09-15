@@ -11,4 +11,4 @@ a = 2
 b = 5
 print(f"Before swap a = {a} and b = {b}.")
 a, b = b, a
-print(f"Before swap a = {a} and b = {b}.")
+print(f"After swap a = {a} and b = {b}.")
